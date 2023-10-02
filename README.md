@@ -1,4 +1,4 @@
-# nova
+# ɴᴏᴠᴀ
 
 -  🛠️ Tinkerer
 -  💻 Golang
